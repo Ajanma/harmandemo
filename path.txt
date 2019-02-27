@@ -1,0 +1,93 @@
+JENKINS_URL/me/my-views/view/all/job/DemoProject1/build
+
+C:\Program Files\Java\jre1.8.0_171\bin
+
+C:\Users\user\Desktop\ajanma\apache-tomcat-8.5.38-windows-x64\apache-tomcat-8.5.38\bin
+
+for JDK upto : JDK home
+for git upto git  exe : https://github.com/Ajanma/mycode
+https://github.com/Ajanma/demo2maven
+https://github.com/Ajanma/input
+https://github.com/Ajanma/demo1
+
+https://github.com/vaishalitapaswi/demo2maven
+
+https://github.com/vaishalitapaswi/input/blob/master/Jenkinsfile
+
+https://github.com/vaishalitapaswi/harman2019
+https://github.com/Ajanma/harman2019
+
+for Maven upto maven home
+
+C:\Program Files (x86)\Common Files\Oracle\Java\javapath;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%systemroot%\System32\WindowsPowerShell\v1.0\;%systemroot%\System32\WindowsPowerShell\v1.0\;C:\Windows\CCM;C:\Program Files (x86)\WebEx\Productivity Tools;%systemroot%\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files\Java\jre1.8.0_171;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Users\user\Desktop\ajanma\apache-maven-3.6.0-bin\apache-maven-3.6.0;C:\Program Files\Git\cmd
+
+C:\Users\user\Desktop\ajanma\apache-maven-3.6.0-bin\apache-maven-3.6.0
+
+
+how it decide project is scuccesful ?
+javac failure is not jenkins failure
+but copy command failure is jenkins failure
+
+
+--------------------
+copy artifact install in jenkins
+
+upstream project should not disturb downstream project.
+
+docker run -p 8086:8080 bitnami/tomcat
+
+*********************************************************
+develop - java --> create jar file.
+deployment -> copy .jar file to dockerimage
+docker run bitnami/tomcat
+
+192.168.99.100 ip add where docker is running.
+
+{hellowolrd.jar -> jdk -> OS -> copy hellowolrd.jar -> java -jar HelloWolrd.jar } docker file
+
+docker pull jdk
+
+***************************************************************************
+
+jenkins operation guide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
